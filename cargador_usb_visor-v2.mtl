@@ -1,0 +1,23 @@
+# Blender 4.0.2 MTL File: 'cargador_usb_visor-v2.blend'
+# www.blender.org
+
+newmtl metal
+Ns 632.462463
+Ka 1.000000 1.000000 1.000000
+Kd 0.476990 0.463992 0.391173
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl plastico_blanco
+Ns 72.814331
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd uv_colors.png
+map_Bump -bm 1.000000 uv_bump.png
